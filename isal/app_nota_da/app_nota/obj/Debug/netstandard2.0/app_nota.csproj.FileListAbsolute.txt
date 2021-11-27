@@ -1,0 +1,16 @@
+C:\Users\eliez\source\movil\app_nota\app_nota\bin\Debug\netstandard2.0\app_nota.deps.json
+C:\Users\eliez\source\movil\app_nota\app_nota\bin\Debug\netstandard2.0\app_nota.dll
+C:\Users\eliez\source\movil\app_nota\app_nota\bin\Debug\netstandard2.0\ref\app_nota.dll
+C:\Users\eliez\source\movil\app_nota\app_nota\bin\Debug\netstandard2.0\app_nota.pdb
+C:\Users\eliez\source\movil\app_nota\app_nota\obj\Debug\netstandard2.0\app_nota.csproj.AssemblyReference.cache
+C:\Users\eliez\source\movil\app_nota\app_nota\obj\Debug\netstandard2.0\app_nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliez\source\movil\app_nota\app_nota\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\eliez\source\movil\app_nota\app_nota\obj\Debug\netstandard2.0\BienvenidosPage.xaml.g.cs
+C:\Users\eliez\source\movil\app_nota\app_nota\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\eliez\source\movil\app_nota\app_nota\obj\Debug\netstandard2.0\app_nota.AssemblyInfoInputs.cache
+C:\Users\eliez\source\movil\app_nota\app_nota\obj\Debug\netstandard2.0\app_nota.AssemblyInfo.cs
+C:\Users\eliez\source\movil\app_nota\app_nota\obj\Debug\netstandard2.0\app_nota.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\movil\app_nota\app_nota\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\eliez\source\movil\app_nota\app_nota\obj\Debug\netstandard2.0\app_nota.dll
+C:\Users\eliez\source\movil\app_nota\app_nota\obj\Debug\netstandard2.0\ref\app_nota.dll
+C:\Users\eliez\source\movil\app_nota\app_nota\obj\Debug\netstandard2.0\app_nota.pdb

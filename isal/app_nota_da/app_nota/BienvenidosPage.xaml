@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="app_nota.BienvenidosPage">
+    <StackLayout 
+        BackgroundColor="Green"
+        Orientation="Vertical"
+        Padding="159"
+        Spacing="100"
+        HorizontalOptions="Center">
+        <Button BackgroundColor="LawnGreen" TextColor="Black" 
+                HorizontalOptions="Center" VerticalOptions="Center" Text="Blog" 
+                Clicked="Button_Clicked"></Button>
+
+        <Button BackgroundColor="YellowGreen" TextColor="Black"
+                HorizontalOptions="Center" VerticalOptions="Center" Text="Historia" 
+                Clicked="Button_Clicked_1"></Button>
+
+        <Button BackgroundColor="ForestGreen" TextColor="Black"
+                HorizontalOptions="Center" VerticalOptions="Center" Text="VINCULACIÓN" 
+                Clicked="Button_Clicked_2"></Button>
+
+    </StackLayout>
+</ContentPage>
